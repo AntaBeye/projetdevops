@@ -6,7 +6,7 @@
 
     <groupId>sn.dev</groupId>
     <artifactId>demo</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <name>demo</name>
 
     <properties>
